@@ -21,16 +21,16 @@ div.wrapper {
 }
 article{
     float:left;
-    width: 68%;
+    width: 59%;
     margin-top: 10px;
-    margin-right: 10px;
+    margin-right: 18px;
 }
 table{
     border:1px solid black;
     border-collapse: collapse;
 }
 td{
-    padding: 15px;
+    padding: 25px;
     border: 1px solid black;
 
 }
